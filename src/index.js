@@ -14,7 +14,7 @@ app.use(express.urlencoded({
 app.use(express.json());
 
 // routes
-app.use('/api/noticia',require("./routes/noticias"));
+app.use(require("./routes/noticias"));
 
 // starting the server
 app.listen(app.get('port'), () => {
