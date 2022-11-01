@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "title": "DEGT clausuró Congreso de Ciberseguridad con panel sobre como migrar a un gobierno digital seguro",
+        "descr": "Asimismo se contó con la participación de Carlos Mauricio Fiallos, director de certificaciones de ISACA -acrónimo de Information Systems Audit and Control Association-, Eduardo Tome director de OIT de la Secretaria Nacional de Ciencia, Tecnología e Innovación, así como Marlon Arnero director de tecnología a nivel nacional de COPECO, y quien además forma parte de la Academia de CISCO de la UNAH.",
+        "cuerpo": "Asimismo se contó con la participación de Carlos Mauricio Fiallos, director de certificaciones de ISACA -acrónimo de Information Systems Audit and Control Association-, Eduardo Tomé, director de OIT de la Secretaria Nacional de Ciencia, Tecnología  e Innovación, así como Marlon Arnero director de tecnología a nivel nacional de COPECO, y quien además forma parte de la Academia de CISCO de la UNAH. Durante el panel Diana Cárcamo de la SAR explicó que el uso de las TIC, S para brindar servicios y trámites a la sociedad tiene como principal finalidad facilitar a los ciudadanos y las empresas su relación con el Estado, es decir, ofrecer servicios públicos de manera eficiente, accesible, oportuna pero sobre todo segura para fortalecer la transparencia y la participación ciudadana. “La base de un buen gobierno digital entonces, es la confianza y el respeto a los derechos y deberes de la información de los participantes, que haya alta disponibilidad de los servicios, confidencialidad e integridad de los datos y por supuesto un estricto cumplimiento a todas las leyes relacionadas”, agregó. El grupo de profesionales estuvieron de acuerdo en que en los años anteriores el área tecnológica de las oficinas estatales estuvo muy abandonadas, sin embargo, el nuevo gobierno de la presidenta Xiomara Castro pretende todo lo contrario. “Las áreas de TICs fueron muy desatendidas todos estos años, pero se ha ido tratando de capacitar al personal en el área y se han ido haciendo esfuerzos coordinados para adquirir licencias de manera masiva y equipar a las secretarias con las necesidades”, añadió Tomé. Por su parte el ingeniero Marlon Arnero, comentó que “ya se hizo un primer encuentro de datos en el espacio, para ver la forma de que el gobierno centralice todos los datos y que todas las instituciones manejemos los mismos datos y no estemos hablando con datos incorrectos que se dan bastante en el caso de la gestión de los riesgos”. Finalizó; “se va a trabajar también una plataforma web única, que desde el gobierno central se manejen todas las páginas del gobierno como tal para que al final todas tengamos un mismo enfoque”.",
+        "fecha": "28 de octubre 2022",
+        "img": "https://presencia.unah.edu.hn/assets/Uploads/ciberseguridad-v5.JPG"
+    },
+    {
+        "id": "2",
+        "title": "Noticia cualquiera x2",
+        "descr": "Noticia que se llevo a cabo el dia tal x2",
+        "cuerpo": "este es el cuerpo de la noticia x2",
+        "fecha": "11/11/11 x2",
+        "img": "URL de la img x2"
+    }
+]
